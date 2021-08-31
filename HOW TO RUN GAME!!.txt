@@ -1,0 +1,5 @@
+To install game, go inside the 'Beyond Good & Evil' folder, right click and run 'setup_beyond_good_and_evil' as administrator
+
+Install the game and launch!
+
+If you get any missing dll errors, go inside the _Redist folder and install all 3 programs in the folder
